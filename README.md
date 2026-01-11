@@ -23,8 +23,8 @@ I value consistency, continuous learning, and writing code that is easy to read,
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=selim2066&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=selim2066&icon=0&color=0)](https://visitcount.itsvg.in) 
+<!--[![](https://visitcount.itsvg.in/api?id=selim2066&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> this is my readmefile, now tell me how to 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

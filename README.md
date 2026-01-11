@@ -1,5 +1,15 @@
-# 💫 About Me:
-Hi there! 👋 I’m Muhammad Selim Reza, a Computer Science undergraduate and passionate Web Developer who loves creating responsive and meaningful digital experiences.<br>🚀 I’m currently learning the MERN Stack (MongoDB, Express.js, React, Node.js) while working on Firebase-powered frontend projects to sharpen my skills in real-world web app development.<br>💻 My journey began with core programming languages like C, C++, Python, Java, and PHP, and over time, I’ve built a strong foundation in both frontend design and backend logic.<br>I enjoy solving problems, writing clean and maintainable code, and continuously learning to become a better developer every day.
+# 👋 Hi, I'm Md Selim Reza
+### 🚀 Web Developer | Full Stack Learner | CSE Undergraduate
+
+I’m a **Full-Stack Web Development learner** with hands-on experience in building modern, scalable web applications. I have completed projects using **React, TypeScript, Node.js, Express.js, PostgreSQL, and Prisma**, focusing on clean code, API design, and real-world problem solving.
+
+I’m comfortable working across the **frontend and backend**, translating product requirements into maintainable and efficient solutions.
+
+🚀 **Currently expanding my skill set with**:
+**Next.js, Redis, Go, and Docker**. *InshaAllah*, to strengthen my understanding of performance, backend systems, and production-ready deployments.
+
+I value consistency, continuous learning, and writing code that is easy to read, test, and scale.
+
 
 
 ## 🌐 Socials:
@@ -12,13 +22,9 @@ Hi there! 👋 I’m Muhammad Selim Reza, a Computer Science undergraduate and p
 ![](https://nirzak-streak-stats.vercel.app/?user=selim2066&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=selim2066&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=selim2066&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=selim2066&icon=0&color=0)](https://visitcount.itsvg.in) 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=selim2066&show_icons=true&theme=dark)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> this is my readmefile, now tell me how to 

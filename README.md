@@ -1,7 +1,3 @@
-# 👋 Hi, I'm Muhammad Selim Reza
-
-### 🚀 Web Developer | MERN Stack Learner | CSE Undergraduate
-
 # 💫 About Me:
 Hi there! 👋 I’m Muhammad Selim Reza, a Computer Science undergraduate and passionate Web Developer who loves creating responsive and meaningful digital experiences.<br>🚀 I’m currently learning the MERN Stack (MongoDB, Express.js, React, Node.js) while working on Firebase-powered frontend projects to sharpen my skills in real-world web app development.<br>💻 My journey began with core programming languages like C, C++, Python, Java, and PHP, and over time, I’ve built a strong foundation in both frontend design and backend logic.<br>I enjoy solving problems, writing clean and maintainable code, and continuously learning to become a better developer every day.
 
@@ -25,4 +21,4 @@ Hi there! 👋 I’m Muhammad Selim Reza, a Computer Science undergraduate and p
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=selim2066&show_icons=true&theme=dark)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> this is my readmefile, now tell me how to 

@@ -16,6 +16,9 @@ Hi there! 👋 I’m Muhammad Selim Reza, a Computer Science undergraduate and p
 ![](https://github-contributor-stats.vercel.app/api?username=selim2066&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=selim2066&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=selim2066&icon=0&color=0)](https://visitcount.itsvg.in) 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=selim2066&show_icons=true&theme=dark)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

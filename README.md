@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Md Selim Reza
-### 🚀 Web Developer | Full Stack Learner | CSE Undergraduate
+### 🚀 Web Developer | Full Stack Developer | CSE Undergraduate
 
-I’m a **Full-Stack Web Development learner** with hands-on experience in building modern, scalable web applications. I have completed projects using **React, TypeScript, Node.js, Express.js, PostgreSQL, and Prisma**, focusing on clean code, API design, and real-world problem solving.
+I’m a **Full-Stack Web Development learner** with hands-on experience in building modern, scalable web applications. I have completed projects using **React, TypeScript, Node.js, Express.js, PostgreSQL, Prisma, and Next.js**, focusing on clean code, API design, and real-world problem solving.
 
 I’m comfortable working across the **frontend and backend**, translating product requirements into maintainable and efficient solutions.
 
 🚀 **Currently expanding my skill set with**:
-**Next.js, Redis, Go, and Docker**. *InshaAllah*, to strengthen my understanding of performance, backend systems, and production-ready deployments.
+**Redis, Go, and Docker**. *InshaAllah*, to strengthen my understanding of performance, backend systems, and production-ready deployments.
 
 I value consistency, continuous learning, and writing code that is easy to read, test, and scale.
 

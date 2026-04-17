@@ -1,133 +1,157 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Md%20Selim%20Reza&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=say%20Alhamdulillah.%20and%20Stay%20Humble." alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Say+Alhamdulillah.+Stay+Humble.;Building+Scalable+Backend+Systems;Clean+Code+%7C+API+Design+%7C+Performance" />
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=selim2066">
-    <img src="https://komarev.com/ghpvc/?username=selim2066&label=Profile%20views&color=00FFFF&style=flat-square" alt="selim2066's profile views" />
+  <img src="https://komarev.com/ghpvc/?username=selim2066&label=Profile%20views&color=00FFFF&style=flat-square" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 💻 Full-Stack Developer focused on scalable and maintainable web applications  
+- 🔧 Experienced with React, Next.js, Node.js, Express, PostgreSQL, Prisma  
+- 🧠 Strong focus on clean architecture, API design, and real-world problem solving  
+- 📚 Currently exploring Redis, Go, and Docker  
+- 🎯 Aspiring backend engineer (production-ready systems mindset)  
+
+---
+
+## 🎯 Focus Areas
+
+- 🧠 Backend Systems & API Development  
+- ⚙️ Full-Stack Web Applications  
+- 🤖 AI-Integrated Features  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=selim2066&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selim2066&layout=compact&theme=radical&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=selim2066&theme=radical&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=selim2066&theme=react-dark&hide_border=true&area=true"/>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<table align="center">
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/><br/>TypeScript</td>
+
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/><br/>React</td>
+
+<td align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/><br/>Next.js
+</picture>
+</td>
+
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/><br/>Node.js</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=express" width="40"/><br/>
+<b>Express</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=prisma" width="40"/><br/>
+<b>Prisma</b>
+</td>
+
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/><br/>PostgreSQL</td>
+
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/><br/>Docker</td>
+</tr>
+
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40"/><br/>Redis</td>
+
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/><br/>Go</td>
+
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/><br/>Git</td>
+
+<td align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/><br/>GitHub
+</picture>
+</td>
+</tr>
+</table>
+
+
+---
+
+## 📌 Featured Project
+
+### 🏥 MediStore – Full-Stack E-commerce
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2500&color=00C853&center=true&vCenter=true&width=850&lines=Modern+medicine+e-commerce+platform;Role-based+dashboard+%7C+Auth+%7C+Orders;Built+with+Next.js+%7C+Prisma+%7C+PostgreSQL" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <a href="https://medi-store-msr-frontend.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀 Live%20Frontend-Visit%20App-00C853?style=for-the-badge" />
+  </a>
+  <a href="https://medistore-msr-backend.onrender.com/">
+    <img src="https://img.shields.io/badge/⚙️ Backend%20API-Server-2962FF?style=for-the-badge" />
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/c5/eb/05/c5eb05561c26dcd11228ed33cd3e707c.gif" alt="Banner" width="100%" />
-
-## 📌 About Me
-- 💻 Full-Stack Developer focused on building scalable and maintainable web applications  .
-- 🔧 Experienced with React, Next.js, Node.js, Express, PostgreSQL, and Prisma
-- 🧠 Strong emphasis on clean architecture, API design, and real-world problem solving
-- 📚 Currently exploring Redis, Go, and Docker to deepen backend and system design skills
-- 🎯 Aspiring to become a production-ready backend engineer
-
-
-## 🧠 My Focus Areas
-- 🧠 Backend Systems & API Development
-- ⚙️ Full-Stack Web Application Development
-- 🤖 AI-Integrated Web Applications
-
-
-## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/selim2066">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=selim2066&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="selim2066's GitHub Stats" />
+  <a href="https://github.com/selim2066/MediStore-MSR-Frontend">
+    <img src="https://img.shields.io/badge/📦 Frontend-Code-181717?style=for-the-badge&logo=github" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=selim2066&theme=radical&hide_border=true&cache_seconds=86400" alt="selim2066's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=selim2066&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Md Selim Reza's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=selim2066&theme=radical&radius=10" alt="selim2066's Activity Graph" />
-</p>
-
-
-## 🛠️ Languages & Tools
-
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" />
-
-</p>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
-
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
-
-</p>
-
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" />
-
-</p>
-
-<h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />
-
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
-
-</p>
-
-<p align="center">
-  <a href="https://github.com/selim2066">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=selim2066&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  <a href="https://github.com/selim2066/mediStore-msr-backend">
+    <img src="https://img.shields.io/badge/🧠 Backend-Code-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=selim2066)
-<br/>
+## 🔗 Connect
 
-## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/mdselimreza2000/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/1580912090">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   <a href="mailto:mdselimreza2066@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href=" https://md-selim-reza-portfolio.vercel.app/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://md-selim-reza-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/8801580912090">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
+---
 
-<p align="center"><a href="https://www.buymeacoffee.com/mdselimreza2000" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
-</div>
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</p>
